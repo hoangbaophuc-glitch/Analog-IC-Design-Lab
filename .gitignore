@@ -1,0 +1,25 @@
+# OS generated files
+Thumbs.db
+desktop.ini
+
+# Cadence Virtuoso
+*.log
+*.log.*
+CDS.log*
+*.cdslck*
+*.jou
+*.mminfo
+sim/
+lvs/
+drc/
+.cadence/
+
+# Vivado / Xilinx
+*.str
+*.pb
+*.wdb
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*SCRATCH*
